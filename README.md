@@ -62,7 +62,7 @@ yarn add handlebars
 
 app.config.js
 ```
-import handlebars from 'handlesbars'
+import Handlebars from 'handlebars'
 
 module.exports = {
   data: {},
