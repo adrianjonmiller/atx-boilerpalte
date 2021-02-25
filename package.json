@@ -9,7 +9,7 @@
     "watch": "atx -w"
   },
   "dependencies": {
-    "atx": "0.0.6",
+    "atx": "0.0.16",
     "node-fetch": "2.6.0",
     "nunjucks": "3.2.0",
     "parcel-bundler": "1.12.3",
